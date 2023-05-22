@@ -1,0 +1,2760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="label" for="node" attr.name="label" attr.type="string"/>
+  <key id="label" for="edge" attr.name="label" attr.type="string"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="N181">
+      <data key="label"></data>
+    </node>
+    <node id="N89">
+      <data key="label">в основном, значимого для</data>
+    </node>
+    <node id="N52">
+      <data key="label"></data>
+    </node>
+    <node id="N113">
+      <data key="label">в другой реализации доступ</data>
+    </node>
+    <node id="N133">
+      <data key="label">начало исполняемой</data>
+    </node>
+    <node id="N349">
+      <data key="label">взаимозаменяемы</data>
+    </node>
+    <node id="N37">
+      <data key="label">нужен для оптимизации программ</data>
+    </node>
+    <node id="N53">
+      <data key="label"></data>
+    </node>
+    <node id="N160">
+      <data key="label"></data>
+    </node>
+    <node id="Copy2 of Copy1 of N311">
+      <data key="label">1</data>
+    </node>
+    <node id="N18">
+      <data key="label">представление в процессе =</data>
+    </node>
+    <node id="N243">
+      <data key="label"></data>
+    </node>
+    <node id="N76">
+      <data key="label"></data>
+    </node>
+    <node id="N385">
+      <data key="label">Простой пример</data>
+    </node>
+    <node id="N19">
+      <data key="label">энкодер</data>
+    </node>
+    <node id="N184">
+      <data key="label"></data>
+    </node>
+    <node id="N79">
+      <data key="label"></data>
+    </node>
+    <node id="N32">
+      <data key="label">память, время работы</data>
+    </node>
+    <node id="N330">
+      <data key="label">По сути это должно быть проще, но на деле HDL языки</data>
+    </node>
+    <node id="N5">
+      <data key="label"></data>
+    </node>
+    <node id="Copy1 of Copy1 of Copy1 of N43">
+      <data key="label"></data>
+    </node>
+    <node id="Copy1 of N293">
+      <data key="label"></data>
+    </node>
+    <node id="N28">
+      <data key="label"></data>
+    </node>
+    <node id="N350">
+      <data key="label">Длиннейший путь это кратчайший путь между наиболее</data>
+    </node>
+    <node id="N286">
+      <data key="label"></data>
+    </node>
+    <node id="N99">
+      <data key="label">декодер</data>
+    </node>
+    <node id="N337">
+      <data key="label">Стандартная библиотека</data>
+    </node>
+    <node id="N198">
+      <data key="label"></data>
+    </node>
+    <node id="N29">
+      <data key="label">перебор путей графа процессов</data>
+    </node>
+    <node id="Copy1 of N311">
+      <data key="label">1</data>
+    </node>
+    <node id="N49">
+      <data key="label">выход</data>
+    </node>
+    <node id="N292">
+      <data key="label"></data>
+    </node>
+    <node id="N306">
+      <data key="label">а что тут начало и конец?</data>
+    </node>
+    <node id="N216">
+      <data key="label">длиннейший путь</data>
+    </node>
+    <node id="N291">
+      <data key="label"></data>
+    </node>
+    <node id="N269">
+      <data key="label"></data>
+    </node>
+    <node id="N262">
+      <data key="label">Вопрос: переходы всегда ли считаются по</data>
+    </node>
+    <node id="N342">
+      <data key="label">Длина синтаксиса тут является не значительной проблемой потому, что</data>
+    </node>
+    <node id="N276">
+      <data key="label"></data>
+    </node>
+    <node id="N231">
+      <data key="label"></data>
+    </node>
+    <node id="N36">
+      <data key="label"></data>
+    </node>
+    <node id="N209">
+      <data key="label"></data>
+    </node>
+    <node id="N123">
+      <data key="label"></data>
+    </node>
+    <node id="N13">
+      <data key="label">возможные процессы</data>
+    </node>
+    <node id="N340">
+      <data key="label">В их случае компилятор их выдаст, либо</data>
+    </node>
+    <node id="N97">
+      <data key="label">граф реализации формата</data>
+    </node>
+    <node id="N66">
+      <data key="label">do</data>
+    </node>
+    <node id="N374">
+      <data key="label">Внутри </data>
+    </node>
+    <node id="N307">
+      <data key="label">Ведь </data>
+    </node>
+    <node id="N267">
+      <data key="label">результат поиска</data>
+    </node>
+    <node id="N95">
+      <data key="label"></data>
+    </node>
+    <node id="N147">
+      <data key="label">изменённая память</data>
+    </node>
+    <node id="N12">
+      <data key="label">данные</data>
+    </node>
+    <node id="N128">
+      <data key="label">тип, связи вершины</data>
+    </node>
+    <node id="Copy1 of Copy1 of N311">
+      <data key="label">1</data>
+    </node>
+    <node id="N393">
+      <data key="label">счётчик</data>
+    </node>
+    <node id="N341">
+      <data key="label">Длинный</data>
+    </node>
+    <node id="N268">
+      <data key="label">все пути</data>
+    </node>
+    <node id="N193">
+      <data key="label">ПЛИС</data>
+    </node>
+    <node id="N366">
+      <data key="label">указатель на кратчайший путь</data>
+    </node>
+    <node id="N174">
+      <data key="label"></data>
+    </node>
+    <node id="N386">
+      <data key="label">начало1</data>
+    </node>
+    <node id="N188">
+      <data key="label">дополнительные данные</data>
+    </node>
+    <node id="N282">
+      <data key="label"></data>
+    </node>
+    <node id="N383">
+      <data key="label"></data>
+    </node>
+    <node id="N75">
+      <data key="label"></data>
+    </node>
+    <node id="N347">
+      <data key="label">Поиск длиннейшего пути</data>
+    </node>
+    <node id="N81">
+      <data key="label">адресуемая память</data>
+    </node>
+    <node id="N401">
+      <data key="label">указатель на кратчайший путь</data>
+    </node>
+    <node id="N363">
+      <data key="label"></data>
+    </node>
+    <node id="N164">
+      <data key="label"></data>
+    </node>
+    <node id="N104">
+      <data key="label">чтение из памяти</data>
+    </node>
+    <node id="N141">
+      <data key="label">структура инструкции</data>
+    </node>
+    <node id="N220">
+      <data key="label">пример конкуренции</data>
+    </node>
+    <node id="N201">
+      <data key="label"></data>
+    </node>
+    <node id="N1">
+      <data key="label"></data>
+    </node>
+    <node id="N314">
+      <data key="label">и что тут оптимизировать на этом графе процесса?</data>
+    </node>
+    <node id="N370">
+      <data key="label">Множество настоящих</data>
+    </node>
+    <node id="N98">
+      <data key="label">энкодер</data>
+    </node>
+    <node id="N108">
+      <data key="label">исполнение</data>
+    </node>
+    <node id="N196">
+      <data key="label">годится для простых случаев с распространёнными аналогиями</data>
+    </node>
+    <node id="N169">
+      <data key="label">работающий ИИ агент в симуляции даст</data>
+    </node>
+    <node id="N323">
+      <data key="label">Итого, натолкнувшись на проблему неопределённости,</data>
+    </node>
+    <node id="N145">
+      <data key="label">Есть много способов реализовать 8 битный</data>
+    </node>
+    <node id="N275">
+      <data key="label"></data>
+    </node>
+    <node id="N295">
+      <data key="label"></data>
+    </node>
+    <node id="N24">
+      <data key="label">То есть, данные хранятся в памяти.</data>
+    </node>
+    <node id="N237">
+      <data key="label"></data>
+    </node>
+    <node id="Copy1 of N198">
+      <data key="label"></data>
+    </node>
+    <node id="N312">
+      <data key="label">2</data>
+    </node>
+    <node id="Copy2 of Copy1 of N310">
+      <data key="label">0</data>
+    </node>
+    <node id="N309">
+      <data key="label">это создание логической схемы,</data>
+    </node>
+    <node id="N266">
+      <data key="label">сравнение </data>
+    </node>
+    <node id="N200">
+      <data key="label"></data>
+    </node>
+    <node id="N252">
+      <data key="label">не происходит</data>
+    </node>
+    <node id="Copy1 of N42">
+      <data key="label"></data>
+    </node>
+    <node id="N73">
+      <data key="label"></data>
+    </node>
+    <node id="N218">
+      <data key="label"></data>
+    </node>
+    <node id="N47">
+      <data key="label">программа поиска</data>
+    </node>
+    <node id="N102">
+      <data key="label">agent0.1</data>
+    </node>
+    <node id="N318">
+      <data key="label"></data>
+    </node>
+    <node id="N215">
+      <data key="label">алгоритм поиска кратчайшего пути</data>
+    </node>
+    <node id="N103">
+      <data key="label">запись в память</data>
+    </node>
+    <node id="N345">
+      <data key="label">Всё стандартизировано, формат встроен</data>
+    </node>
+    <node id="N396">
+      <data key="label"></data>
+    </node>
+    <node id="N313">
+      <data key="label">полная запись всех переходов между состояниями</data>
+    </node>
+    <node id="N43">
+      <data key="label"></data>
+    </node>
+    <node id="N203">
+      <data key="label"></data>
+    </node>
+    <node id="N245">
+      <data key="label"></data>
+    </node>
+    <node id="N304">
+      <data key="label">Понадобится воссоздать целый компьютер в этом графе чтобы посчитать</data>
+    </node>
+    <node id="N361">
+      <data key="label"></data>
+    </node>
+    <node id="N7">
+      <data key="label"></data>
+    </node>
+    <node id="N324">
+      <data key="label">Суть остаётся прежней: нужно найти путь, где поиск как можно большего</data>
+    </node>
+    <node id="N289">
+      <data key="label"></data>
+    </node>
+    <node id="N211">
+      <data key="label">пример достаточно простого самоукорочения системы из 8 состояний</data>
+    </node>
+    <node id="Copy2 of N312">
+      <data key="label">2</data>
+    </node>
+    <node id="N38">
+      <data key="label">компилятор</data>
+    </node>
+    <node id="N126">
+      <data key="label"></data>
+    </node>
+    <node id="N375">
+      <data key="label">Внешний поиск кратчайшего пути</data>
+    </node>
+    <node id="N182">
+      <data key="label">нужно найти в графе всех процессов</data>
+    </node>
+    <node id="N302">
+      <data key="label">это кратчайший путь</data>
+    </node>
+    <node id="N71">
+      <data key="label"></data>
+    </node>
+    <node id="N146">
+      <data key="label">байт адрес вывода</data>
+    </node>
+    <node id="N186">
+      <data key="label"></data>
+    </node>
+    <node id="N134">
+      <data key="label">тут не сказано потому, что очевидно,</data>
+    </node>
+    <node id="N404">
+      <data key="label">указатель на длиннейший путь</data>
+    </node>
+    <node id="N219">
+      <data key="label"></data>
+    </node>
+    <node id="N248">
+      <data key="label">начало опасности</data>
+    </node>
+    <node id="N15">
+      <data key="label">переход</data>
+    </node>
+    <node id="N207">
+      <data key="label"></data>
+    </node>
+    <node id="N122">
+      <data key="label">процедура поиска кратчайшего пути </data>
+    </node>
+    <node id="N378">
+      <data key="label">Исполнение выбранного настоящего</data>
+    </node>
+    <node id="N230">
+      <data key="label"></data>
+    </node>
+    <node id="N226">
+      <data key="label"></data>
+    </node>
+    <node id="N247">
+      <data key="label"></data>
+    </node>
+    <node id="N40">
+      <data key="label"></data>
+    </node>
+    <node id="N382">
+      <data key="label"></data>
+    </node>
+    <node id="N195">
+      <data key="label">аналоговая симуляция в голове</data>
+    </node>
+    <node id="N329">
+      <data key="label">Преобразование логической схемы в граф процессов</data>
+    </node>
+    <node id="N111">
+      <data key="label">данные</data>
+    </node>
+    <node id="N354">
+      <data key="label">Прохождение поперёк</data>
+    </node>
+    <node id="Copy2 of N310">
+      <data key="label">0</data>
+    </node>
+    <node id="N59">
+      <data key="label">так как оптимизация программы оптимизации программы</data>
+    </node>
+    <node id="N315">
+      <data key="label"></data>
+    </node>
+    <node id="N180">
+      <data key="label">программа ищущая неизвестное</data>
+    </node>
+    <node id="N249">
+      <data key="label"></data>
+    </node>
+    <node id="N61">
+      <data key="label"></data>
+    </node>
+    <node id="N241">
+      <data key="label"></data>
+    </node>
+    <node id="N328">
+      <data key="label">Один из способов более удобного создания графа процессов</data>
+    </node>
+    <node id="N35">
+      <data key="label">нужен для записи большего количества</data>
+    </node>
+    <node id="Copy1 of N204">
+      <data key="label"></data>
+    </node>
+    <node id="N48">
+      <data key="label">вход</data>
+    </node>
+    <node id="N338">
+      <data key="label">Благодаря этому можно её использовать</data>
+    </node>
+    <node id="N170">
+      <data key="label">граф процессов, где известна часть</data>
+    </node>
+    <node id="Copy1 of N215">
+      <data key="label">алгоритм поиска кратчайшего пути</data>
+    </node>
+    <node id="N199">
+      <data key="label"></data>
+    </node>
+    <node id="N87">
+      <data key="label">аналоговые кодировки</data>
+    </node>
+    <node id="Copy1 of N53">
+      <data key="label"></data>
+    </node>
+    <node id="N112">
+      <data key="label">работа программы</data>
+    </node>
+    <node id="N92">
+      <data key="label">граф процессов</data>
+    </node>
+    <node id="N156">
+      <data key="label">add</data>
+    </node>
+    <node id="N222">
+      <data key="label">выживающий</data>
+    </node>
+    <node id="Copy1 of N201">
+      <data key="label"></data>
+    </node>
+    <node id="N56">
+      <data key="label"></data>
+    </node>
+    <node id="N377">
+      <data key="label">Это снаружи в абстрактном виде так. Это уже граф процессов,</data>
+    </node>
+    <node id="N30">
+      <data key="label">возможно должен учесть</data>
+    </node>
+    <node id="N227">
+      <data key="label"></data>
+    </node>
+    <node id="N69">
+      <data key="label"></data>
+    </node>
+    <node id="N100">
+      <data key="label">программа для CPU</data>
+    </node>
+    <node id="Copy1 of N11">
+      <data key="label">поиск кратчайшего пути</data>
+    </node>
+    <node id="N171">
+      <data key="label"></data>
+    </node>
+    <node id="N116">
+      <data key="label">граф процессов в</data>
+    </node>
+    <node id="N364">
+      <data key="label">Сравнение длин</data>
+    </node>
+    <node id="N265">
+      <data key="label">Он нужен чтобы предотвратить опасность,</data>
+    </node>
+    <node id="N173">
+      <data key="label"></data>
+    </node>
+    <node id="Copy1 of N205">
+      <data key="label"></data>
+    </node>
+    <node id="N189">
+      <data key="label">среды исполнения</data>
+    </node>
+    <node id="N65">
+      <data key="label"></data>
+    </node>
+    <node id="N9">
+      <data key="label">приём</data>
+    </node>
+    <node id="N333">
+      <data key="label">Язык программирования</data>
+    </node>
+    <node id="N355">
+      <data key="label">
+</data>
+    </node>
+    <node id="N398">
+      <data key="label">Здесь переход может быть один</data>
+    </node>
+    <node id="Copy1 of Copy2 of N11">
+      <data key="label">поиск кратчайшего пути</data>
+    </node>
+    <node id="N300">
+      <data key="label">это кратчайший путь</data>
+    </node>
+    <node id="N232">
+      <data key="label"></data>
+    </node>
+    <node id="N22">
+      <data key="label"></data>
+    </node>
+    <node id="Copy1 of N310">
+      <data key="label">0</data>
+    </node>
+    <node id="N46">
+      <data key="label">неограниченный граф</data>
+    </node>
+    <node id="N334">
+      <data key="label">Zig</data>
+    </node>
+    <node id="N279">
+      <data key="label"></data>
+    </node>
+    <node id="N359">
+      <data key="label">x86_64</data>
+    </node>
+    <node id="N251">
+      <data key="label">реакция на опасность</data>
+    </node>
+    <node id="N204">
+      <data key="label"></data>
+    </node>
+    <node id="Copy1 of N209">
+      <data key="label"></data>
+    </node>
+    <node id="N297">
+      <data key="label"></data>
+    </node>
+    <node id="N176">
+      <data key="label"></data>
+    </node>
+    <node id="Copy1 of N50">
+      <data key="label"></data>
+    </node>
+    <node id="N317">
+      <data key="label">можно и так показать</data>
+    </node>
+    <node id="N205">
+      <data key="label"></data>
+    </node>
+    <node id="N280">
+      <data key="label"></data>
+    </node>
+    <node id="N101">
+      <data key="label"></data>
+    </node>
+    <node id="N120">
+      <data key="label">fn find_shortest_path</data>
+    </node>
+    <node id="N254">
+      <data key="label">После перехода процессы</data>
+    </node>
+    <node id="N17">
+      <data key="label">программа</data>
+    </node>
+    <node id="N235">
+      <data key="label"></data>
+    </node>
+    <node id="N6">
+      <data key="label"></data>
+    </node>
+    <node id="N339">
+      <data key="label">Есть проверки на некоторые ошибки.</data>
+    </node>
+    <node id="N327">
+      <data key="label">Добавление интерпретируемого процессора в граф процессов</data>
+    </node>
+    <node id="N373">
+      <data key="label">нужен кратчайший путь</data>
+    </node>
+    <node id="N298">
+      <data key="label"></data>
+    </node>
+    <node id="N153">
+      <data key="label">not</data>
+    </node>
+    <node id="N143">
+      <data key="label">байт адрес 1 операнда</data>
+    </node>
+    <node id="N253">
+      <data key="label">У всего есть причина и в рамках одного</data>
+    </node>
+    <node id="N208">
+      <data key="label"></data>
+    </node>
+    <node id="N376">
+      <data key="label"></data>
+    </node>
+    <node id="N45">
+      <data key="label">расширение 1</data>
+    </node>
+    <node id="N399">
+      <data key="label"></data>
+    </node>
+    <node id="N294">
+      <data key="label"></data>
+    </node>
+    <node id="Copy3 of N310">
+      <data key="label">0</data>
+    </node>
+    <node id="N371">
+      <data key="label">возможные пути</data>
+    </node>
+    <node id="N67">
+      <data key="label">живая программа </data>
+    </node>
+    <node id="N88">
+      <data key="label">могут хранить больше данных, чем</data>
+    </node>
+    <node id="N212">
+      <data key="label">алгоритм поиска длиннейшего пути</data>
+    </node>
+    <node id="Copy1 of N218">
+      <data key="label"></data>
+    </node>
+    <node id="N202">
+      <data key="label"></data>
+    </node>
+    <node id="N119">
+      <data key="label">fn decode_graph_node</data>
+    </node>
+    <node id="N84">
+      <data key="label">графа процессов</data>
+    </node>
+    <node id="N137">
+      <data key="label">исполнить инструкцию</data>
+    </node>
+    <node id="N114">
+      <data key="label">прочие области</data>
+    </node>
+    <node id="N326">
+      <data key="label">Началом являются данные о путях. Цель это длиннейший путь самой системы.</data>
+    </node>
+    <node id="N229">
+      <data key="label"></data>
+    </node>
+    <node id="N82">
+      <data key="label">реализации формата</data>
+    </node>
+    <node id="N284">
+      <data key="label"></data>
+    </node>
+    <node id="N140">
+      <data key="label">cmp</data>
+    </node>
+    <node id="N54">
+      <data key="label"></data>
+    </node>
+    <node id="N25">
+      <data key="label"></data>
+    </node>
+    <node id="N31">
+      <data key="label">своё устройство</data>
+    </node>
+    <node id="N132">
+      <data key="label">executable code</data>
+    </node>
+    <node id="N175">
+      <data key="label"></data>
+    </node>
+    <node id="N224">
+      <data key="label">В графе процессов может ли быть</data>
+    </node>
+    <node id="N157">
+      <data key="label">sub</data>
+    </node>
+    <node id="N80">
+      <data key="label">то есть проблема в количестве данных</data>
+    </node>
+    <node id="N238">
+      <data key="label"></data>
+    </node>
+    <node id="Copy1 of N202">
+      <data key="label"></data>
+    </node>
+    <node id="N303">
+      <data key="label">это кратчайший путь</data>
+    </node>
+    <node id="N158">
+      <data key="label">mul</data>
+    </node>
+    <node id="N384">
+      <data key="label">Я не показал, что не сами процессы, а</data>
+    </node>
+    <node id="N258">
+      <data key="label">язык силы</data>
+    </node>
+    <node id="N72">
+      <data key="label"></data>
+    </node>
+    <node id="N372">
+      <data key="label"></data>
+    </node>
+    <node id="N287">
+      <data key="label"></data>
+    </node>
+    <node id="N277">
+      <data key="label"></data>
+    </node>
+    <node id="N296">
+      <data key="label"></data>
+    </node>
+    <node id="N234">
+      <data key="label"></data>
+    </node>
+    <node id="N343">
+      <data key="label">Мало примеров</data>
+    </node>
+    <node id="N191">
+      <data key="label">электроприбор</data>
+    </node>
+    <node id="N381">
+      <data key="label"></data>
+    </node>
+    <node id="N395">
+      <data key="label"></data>
+    </node>
+    <node id="N150">
+      <data key="label">запись</data>
+    </node>
+    <node id="N14">
+      <data key="label">то же в виде графа процессов</data>
+    </node>
+    <node id="N177">
+      <data key="label"></data>
+    </node>
+    <node id="N106">
+      <data key="label">исполнитель</data>
+    </node>
+    <node id="Copy1 of Copy1 of N310">
+      <data key="label">0</data>
+    </node>
+    <node id="Copy1 of N199">
+      <data key="label"></data>
+    </node>
+    <node id="N60">
+      <data key="label">жизнь</data>
+    </node>
+    <node id="N348">
+      <data key="label">Поиск кратчайшего пути</data>
+    </node>
+    <node id="N57">
+      <data key="label">2 перехода с одинаковыми входами обозначают</data>
+    </node>
+    <node id="N368">
+      <data key="label">настоящее кратчайшего пути</data>
+    </node>
+    <node id="N274">
+      <data key="label"></data>
+    </node>
+    <node id="N391">
+      <data key="label"></data>
+    </node>
+    <node id="N64">
+      <data key="label">точка входа</data>
+    </node>
+    <node id="N311">
+      <data key="label">1</data>
+    </node>
+    <node id="N407">
+      <data key="label">Предсказание будущего в виде</data>
+    </node>
+    <node id="N151">
+      <data key="label">запись</data>
+    </node>
+    <node id="N346">
+      <data key="label">Интерпретатор</data>
+    </node>
+    <node id="N390">
+      <data key="label">конец</data>
+    </node>
+    <node id="N136">
+      <data key="label"></data>
+    </node>
+    <node id="N166">
+      <data key="label">loop</data>
+    </node>
+    <node id="N83">
+      <data key="label">процесс создания</data>
+    </node>
+    <node id="N305">
+      <data key="label">В виде псевдокода это можно записать как</data>
+    </node>
+    <node id="N155">
+      <data key="label">and</data>
+    </node>
+    <node id="N257">
+      <data key="label">язык выживания</data>
+    </node>
+    <node id="N44">
+      <data key="label">расширение 0</data>
+    </node>
+    <node id="N58">
+      <data key="label">у перехода один выход ли?</data>
+    </node>
+    <node id="N51">
+      <data key="label">расширение, упрощение 2</data>
+    </node>
+    <node id="N11">
+      <data key="label">поиск кратчайшего пути</data>
+    </node>
+    <node id="N142">
+      <data key="label">байт id инструкции</data>
+    </node>
+    <node id="N125">
+      <data key="label"></data>
+    </node>
+    <node id="Copy3 of N311">
+      <data key="label">1</data>
+    </node>
+    <node id="N149">
+      <data key="label">копия памяти</data>
+    </node>
+    <node id="Copy1 of N43">
+      <data key="label"></data>
+    </node>
+    <node id="N353">
+      <data key="label">Прохождение вдоль</data>
+    </node>
+    <node id="N406">
+      <data key="label">нужно исполнить длиннейший путь</data>
+    </node>
+    <node id="N356">
+      <data key="label">Существующие архитектуры</data>
+    </node>
+    <node id="N351">
+      <data key="label">Перевод в граф процессов</data>
+    </node>
+    <node id="N86">
+      <data key="label">граф создания реализации </data>
+    </node>
+    <node id="N308">
+      <data key="label">Цель: найти что следует сделать чтобы больше знать, увеличить длину своего пути, быстрее реагировать на возможную опасность.</data>
+    </node>
+    <node id="N152">
+      <data key="label">Значит процессор этот должен компилировать, исполнять</data>
+    </node>
+    <node id="N233">
+      <data key="label"></data>
+    </node>
+    <node id="N331">
+      <data key="label">Алгоритмы</data>
+    </node>
+    <node id="N225">
+      <data key="label"></data>
+    </node>
+    <node id="N39">
+      <data key="label">поиск кратчайшего пути, реализующего алгоритм, записанный в графе,</data>
+    </node>
+    <node id="N94">
+      <data key="label">человек</data>
+    </node>
+    <node id="N161">
+      <data key="label"></data>
+    </node>
+    <node id="Copy1 of Copy1 of N312">
+      <data key="label">2</data>
+    </node>
+    <node id="N246">
+      <data key="label"></data>
+    </node>
+    <node id="N335">
+      <data key="label">Достоинства</data>
+    </node>
+    <node id="N369">
+      <data key="label"></data>
+    </node>
+    <node id="N210">
+      <data key="label"></data>
+    </node>
+    <node id="N27">
+      <data key="label"></data>
+    </node>
+    <node id="N124">
+      <data key="label"></data>
+    </node>
+    <node id="N288">
+      <data key="label"></data>
+    </node>
+    <node id="N183">
+      <data key="label"></data>
+    </node>
+    <node id="N118">
+      <data key="label">fn encode_graph</data>
+    </node>
+    <node id="N380">
+      <data key="label"></data>
+    </node>
+    <node id="N139">
+      <data key="label">mov</data>
+    </node>
+    <node id="N402">
+      <data key="label">нужно исполнить кратчайший путь</data>
+    </node>
+    <node id="N264">
+      <data key="label">Как его показать на графе процессов?</data>
+    </node>
+    <node id="N33">
+      <data key="label">нужен для получения большего количества </data>
+    </node>
+    <node id="N260">
+      <data key="label">Какие закономерности находить</data>
+    </node>
+    <node id="N178">
+      <data key="label"></data>
+    </node>
+    <node id="N74">
+      <data key="label"></data>
+    </node>
+    <node id="N239">
+      <data key="label"></data>
+    </node>
+    <node id="N131">
+      <data key="label"></data>
+    </node>
+    <node id="N344">
+      <data key="label">Чёткий синтаксис.</data>
+    </node>
+    <node id="N217">
+      <data key="label">последовательность кратчайших путей</data>
+    </node>
+    <node id="N148">
+      <data key="label">скопировать память</data>
+    </node>
+    <node id="N162">
+      <data key="label"></data>
+    </node>
+    <node id="N319">
+      <data key="label">или так показать</data>
+    </node>
+    <node id="N10">
+      <data key="label">отправка</data>
+    </node>
+    <node id="N240">
+      <data key="label">пример выживания</data>
+    </node>
+    <node id="N281">
+      <data key="label"></data>
+    </node>
+    <node id="N244">
+      <data key="label"></data>
+    </node>
+    <node id="N358">
+      <data key="label">RISC-V</data>
+    </node>
+    <node id="N392">
+      <data key="label"></data>
+    </node>
+    <node id="N179">
+      <data key="label">причины этого перехода известны не полностью</data>
+    </node>
+    <node id="N190">
+      <data key="label">процессор</data>
+    </node>
+    <node id="N387">
+      <data key="label"></data>
+    </node>
+    <node id="N168">
+      <data key="label">частичные данные</data>
+    </node>
+    <node id="N259">
+      <data key="label">язык сотрудничества</data>
+    </node>
+    <node id="Copy1 of N203">
+      <data key="label"></data>
+    </node>
+    <node id="N367">
+      <data key="label">нужно пройти кратчайший путь</data>
+    </node>
+    <node id="N77">
+      <data key="label">укоротитель сбора данных,</data>
+    </node>
+    <node id="N197">
+      <data key="label">ASIC</data>
+    </node>
+    <node id="N332">
+      <data key="label">Для реализации интерпретатора, создания и</data>
+    </node>
+    <node id="N23">
+      <data key="label"></data>
+    </node>
+    <node id="N172">
+      <data key="label"></data>
+    </node>
+    <node id="N107">
+      <data key="label">исполнение прочих</data>
+    </node>
+    <node id="N109">
+      <data key="label">исполняемая</data>
+    </node>
+    <node id="N110">
+      <data key="label">память</data>
+    </node>
+    <node id="N325">
+      <data key="label">Все пути в графе</data>
+    </node>
+    <node id="N62">
+      <data key="label">смерть</data>
+    </node>
+    <node id="N320">
+      <data key="label">Видно процесс из переходов</data>
+    </node>
+    <node id="N255">
+      <data key="label">Сами по себе состояния продолжают</data>
+    </node>
+    <node id="N135">
+      <data key="label">прочесть область памяти</data>
+    </node>
+    <node id="N283">
+      <data key="label"></data>
+    </node>
+    <node id="N261">
+      <data key="label">Ответ: нет, настоящими могут быть любые</data>
+    </node>
+    <node id="N221">
+      <data key="label">смерть</data>
+    </node>
+    <node id="N242">
+      <data key="label"></data>
+    </node>
+    <node id="N63">
+      <data key="label">здесь сознание может существовать в</data>
+    </node>
+    <node id="N138">
+      <data key="label">список инструкций</data>
+    </node>
+    <node id="N163">
+      <data key="label"></data>
+    </node>
+    <node id="Copy1 of N219">
+      <data key="label"></data>
+    </node>
+    <node id="N8">
+      <data key="label">agent1</data>
+    </node>
+    <node id="N290">
+      <data key="label"></data>
+    </node>
+    <node id="N301">
+      <data key="label">это кратчайший путь</data>
+    </node>
+    <node id="Copy2 of N11">
+      <data key="label">поиск кратчайшего пути</data>
+    </node>
+    <node id="N213">
+      <data key="label">Может быть использован для поиска наиболее сложной комбинации,</data>
+    </node>
+    <node id="N4">
+      <data key="label"></data>
+    </node>
+    <node id="Copy1 of Copy1 of N43">
+      <data key="label"></data>
+    </node>
+    <node id="N299">
+      <data key="label"></data>
+    </node>
+    <node id="N78">
+      <data key="label"></data>
+    </node>
+    <node id="Copy1 of N206">
+      <data key="label"></data>
+    </node>
+    <node id="N250">
+      <data key="label"></data>
+    </node>
+    <node id="N70">
+      <data key="label"></data>
+    </node>
+    <node id="N273">
+      <data key="label"></data>
+    </node>
+    <node id="N394">
+      <data key="label">счётчик</data>
+    </node>
+    <node id="N192">
+      <data key="label">цифровая ЭВМ</data>
+    </node>
+    <node id="N352">
+      <data key="label">Парсер графа процессов</data>
+    </node>
+    <node id="N400">
+      <data key="label"></data>
+    </node>
+    <node id="N272">
+      <data key="label"></data>
+    </node>
+    <node id="N316">
+      <data key="label"></data>
+    </node>
+    <node id="N144">
+      <data key="label">байт адрес 2 операнда</data>
+    </node>
+    <node id="Copy2 of N311">
+      <data key="label">1</data>
+    </node>
+    <node id="N26">
+      <data key="label"></data>
+    </node>
+    <node id="N336">
+      <data key="label">Недостатки</data>
+    </node>
+    <node id="N68">
+      <data key="label">упрощение -1</data>
+    </node>
+    <node id="N322">
+      <data key="label">Опять же, насколько подробно нужно обозначить переходы и процессы</data>
+    </node>
+    <node id="N42">
+      <data key="label"></data>
+    </node>
+    <node id="N90">
+      <data key="label">процессы</data>
+    </node>
+    <node id="N34">
+      <data key="label">программа</data>
+    </node>
+    <node id="N117">
+      <data key="label">прочие данные</data>
+    </node>
+    <node id="N362">
+      <data key="label">То есть надо написать программу,</data>
+    </node>
+    <node id="N310">
+      <data key="label">0</data>
+    </node>
+    <node id="N21">
+      <data key="label"></data>
+    </node>
+    <node id="N403">
+      <data key="label">Там было показано решение сравнением</data>
+    </node>
+    <node id="N185">
+      <data key="label"></data>
+    </node>
+    <node id="Copy2 of Copy1 of N312">
+      <data key="label">2</data>
+    </node>
+    <node id="N270">
+      <data key="label"></data>
+    </node>
+    <node id="N115">
+      <data key="label">область с процедурами</data>
+    </node>
+    <node id="N55">
+      <data key="label"></data>
+    </node>
+    <node id="N167">
+      <data key="label">Нужно инструкции записать в</data>
+    </node>
+    <node id="N91">
+      <data key="label">путеискатель</data>
+    </node>
+    <node id="N214">
+      <data key="label"></data>
+    </node>
+    <node id="N85">
+      <data key="label">этот процесс тоже</data>
+    </node>
+    <node id="N285">
+      <data key="label"></data>
+    </node>
+    <node id="N96">
+      <data key="label">в данном случае,</data>
+    </node>
+    <node id="N263">
+      <data key="label">если переход от отного настоящего</data>
+    </node>
+    <node id="N388">
+      <data key="label">начало2</data>
+    </node>
+    <node id="N206">
+      <data key="label"></data>
+    </node>
+    <node id="N223">
+      <data key="label"></data>
+    </node>
+    <node id="N129">
+      <data key="label">граф процесса получения</data>
+    </node>
+    <node id="N159">
+      <data key="label">div</data>
+    </node>
+    <node id="N41">
+      <data key="label">исчисление</data>
+    </node>
+    <node id="N360">
+      <data key="label"></data>
+    </node>
+    <node id="N16">
+      <data key="label">программа </data>
+    </node>
+    <node id="Copy1 of N200">
+      <data key="label"></data>
+    </node>
+    <node id="N165">
+      <data key="label"></data>
+    </node>
+    <node id="N3">
+      <data key="label"></data>
+    </node>
+    <node id="N321">
+      <data key="label">Переходы в графе процессов следуют правилу</data>
+    </node>
+    <node id="N194">
+      <data key="label">цифровая симуляция</data>
+    </node>
+    <node id="N365">
+      <data key="label"></data>
+    </node>
+    <node id="N278">
+      <data key="label"></data>
+    </node>
+    <node id="N93">
+      <data key="label">путепроходец</data>
+    </node>
+    <node id="N271">
+      <data key="label"></data>
+    </node>
+    <node id="N50">
+      <data key="label"></data>
+    </node>
+    <node id="N405">
+      <data key="label">То есть граф будущих процессов</data>
+    </node>
+    <node id="N187">
+      <data key="label">На этом графе процессов самом по</data>
+    </node>
+    <node id="N228">
+      <data key="label"></data>
+    </node>
+    <node id="N389">
+      <data key="label"></data>
+    </node>
+    <node id="N379">
+      <data key="label"></data>
+    </node>
+    <node id="Copy1 of N312">
+      <data key="label">2</data>
+    </node>
+    <node id="N236">
+      <data key="label"></data>
+    </node>
+    <node id="N20">
+      <data key="label">декодер</data>
+    </node>
+    <node id="N154">
+      <data key="label">or</data>
+    </node>
+    <node id="N256">
+      <data key="label"></data>
+    </node>
+    <node id="Copy3 of N312">
+      <data key="label">2</data>
+    </node>
+    <node id="N127">
+      <data key="label">Разделение на процедуры не обязательно означает</data>
+    </node>
+    <node id="N397">
+      <data key="label"></data>
+    </node>
+    <node id="N2">
+      <data key="label"></data>
+    </node>
+    <node id="N105">
+      <data key="label">исполнение инструкций процессора</data>
+    </node>
+    <node id="N293">
+      <data key="label"></data>
+    </node>
+    <node id="N130">
+      <data key="label">fn process_graph_to_procedure</data>
+    </node>
+    <node id="N357">
+      <data key="label">AVR</data>
+    </node>
+    <node id="N121">
+      <data key="label">fn execute_procedure</data>
+    </node>
+    <node id="N408">
+      <data key="label">(null)</data>
+    </node>
+    <edge source="N108" target="N113">
+      <data key="label">кстати</data>
+    </edge>
+    <edge source="N28" target="N29">
+      <data key="label"></data>
+    </edge>
+    <edge source="N128" target="N124">
+      <data key="label"></data>
+    </edge>
+    <edge source="N98" target="N100">
+      <data key="label">есть</data>
+    </edge>
+    <edge source="N400" target="N402">
+      <data key="label"></data>
+    </edge>
+    <edge source="N21" target="N27">
+      <data key="label"></data>
+    </edge>
+    <edge source="N160" target="N165">
+      <data key="label"></data>
+    </edge>
+    <edge source="N8" target="N12">
+      <data key="label">записывает</data>
+    </edge>
+    <edge source="N388" target="N395">
+      <data key="label"></data>
+    </edge>
+    <edge source="N317" target="N320">
+      <data key="label"></data>
+    </edge>
+    <edge source="N175" target="N174">
+      <data key="label"></data>
+    </edge>
+    <edge source="N276" target="N380">
+      <data key="label"></data>
+    </edge>
+    <edge source="N272" target="N379">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N53" target="N52">
+      <data key="label"></data>
+    </edge>
+    <edge source="N402" target="N400">
+      <data key="label"></data>
+    </edge>
+    <edge source="N313" target="N314">
+      <data key="label">думаю</data>
+    </edge>
+    <edge source="N386" target="N389">
+      <data key="label"></data>
+    </edge>
+    <edge source="N294" target="N295">
+      <data key="label"></data>
+    </edge>
+    <edge source="N13" target="N18">
+      <data key="label">есть</data>
+    </edge>
+    <edge source="N112" target="N108">
+      <data key="label"></data>
+    </edge>
+    <edge source="N222" target="N242">
+      <data key="label"></data>
+    </edge>
+    <edge source="N400" target="N401">
+      <data key="label"></data>
+    </edge>
+    <edge source="N120" target="N124">
+      <data key="label"></data>
+    </edge>
+    <edge source="N369" target="N368">
+      <data key="label"></data>
+    </edge>
+    <edge source="N109" target="N114">
+      <data key="label"></data>
+    </edge>
+    <edge source="N170" target="N187">
+      <data key="label">размышление</data>
+    </edge>
+    <edge source="N325" target="N363">
+      <data key="label"></data>
+    </edge>
+    <edge source="N141" target="N146">
+      <data key="label"></data>
+    </edge>
+    <edge source="N172" target="N176">
+      <data key="label"></data>
+    </edge>
+    <edge source="N215" target="N264">
+      <data key="label">размышление</data>
+    </edge>
+    <edge source="N316" target="N317">
+      <data key="label">это</data>
+    </edge>
+    <edge source="N138" target="N166">
+      <data key="label"></data>
+    </edge>
+    <edge source="N17" target="N46">
+      <data key="label">содержит</data>
+    </edge>
+    <edge source="N406" target="N395">
+      <data key="label"></data>
+    </edge>
+    <edge source="N222" target="N232">
+      <data key="label"></data>
+    </edge>
+    <edge source="N342" target="N336">
+      <data key="label"></data>
+    </edge>
+    <edge source="N5" target="N8">
+      <data key="label"></data>
+    </edge>
+    <edge source="N384" target="N379">
+      <data key="label"></data>
+    </edge>
+    <edge source="N375" target="N325">
+      <data key="label"></data>
+    </edge>
+    <edge source="N386" target="N395">
+      <data key="label"></data>
+    </edge>
+    <edge source="N85" target="N86">
+      <data key="label">этим</data>
+    </edge>
+    <edge source="N192" target="N197">
+      <data key="label"></data>
+    </edge>
+    <edge source="N404" target="N408">
+      <data key="label"></data>
+    </edge>
+    <edge source="N133" target="N134">
+      <data key="label"></data>
+    </edge>
+    <edge source="N316" target="N315">
+      <data key="label"></data>
+    </edge>
+    <edge source="N75" target="N76">
+      <data key="label"></data>
+    </edge>
+    <edge source="N288" target="N383">
+      <data key="label"></data>
+    </edge>
+    <edge source="N201" target="N206">
+      <data key="label"></data>
+    </edge>
+    <edge source="N395" target="N401">
+      <data key="label"></data>
+    </edge>
+    <edge source="N129" target="N131">
+      <data key="label"></data>
+    </edge>
+    <edge source="N336" target="N341">
+      <data key="label"></data>
+    </edge>
+    <edge source="N270" target="N271">
+      <data key="label"></data>
+    </edge>
+    <edge source="N373" target="N372">
+      <data key="label"></data>
+    </edge>
+    <edge source="N1" target="N5">
+      <data key="label"></data>
+    </edge>
+    <edge source="N82" target="N84">
+      <data key="label">чего</data>
+    </edge>
+    <edge source="N212" target="N213">
+      <data key="label">размышление</data>
+    </edge>
+    <edge source="N289" target="N290">
+      <data key="label"></data>
+    </edge>
+    <edge source="N406" target="N408">
+      <data key="label"></data>
+    </edge>
+    <edge source="N349" target="N350">
+      <data key="label"></data>
+    </edge>
+    <edge source="N189" target="N194">
+      <data key="label"></data>
+    </edge>
+    <edge source="N291" target="N294">
+      <data key="label"></data>
+    </edge>
+    <edge source="N385" target="N405">
+      <data key="label"></data>
+    </edge>
+    <edge source="N194" target="N192">
+      <data key="label"></data>
+    </edge>
+    <edge source="N50" target="Copy1 of Copy1 of N43">
+      <data key="label"></data>
+    </edge>
+    <edge source="N276" target="N277">
+      <data key="label"></data>
+    </edge>
+    <edge source="N227" target="N221">
+      <data key="label">7</data>
+    </edge>
+    <edge source="N235" target="N230">
+      <data key="label">5</data>
+    </edge>
+    <edge source="Copy1 of N11" target="N59">
+      <data key="label">смысл</data>
+    </edge>
+    <edge source="N84" target="N89">
+      <data key="label">чего</data>
+    </edge>
+    <edge source="N202" target="N198">
+      <data key="label"></data>
+    </edge>
+    <edge source="N334" target="N335">
+      <data key="label"></data>
+    </edge>
+    <edge source="N138" target="N158">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N209" target="Copy1 of N198">
+      <data key="label"></data>
+    </edge>
+    <edge source="N318" target="N315">
+      <data key="label"></data>
+    </edge>
+    <edge source="N306" target="N326">
+      <data key="label"></data>
+    </edge>
+    <edge source="N387" target="N395">
+      <data key="label"></data>
+    </edge>
+    <edge source="N271" target="N272">
+      <data key="label"></data>
+    </edge>
+    <edge source="N370" target="N369">
+      <data key="label"></data>
+    </edge>
+    <edge source="N53" target="N55">
+      <data key="label"></data>
+    </edge>
+    <edge source="N245" target="N249">
+      <data key="label">1</data>
+    </edge>
+    <edge source="N115" target="N130">
+      <data key="label"></data>
+    </edge>
+    <edge source="N68" target="N69">
+      <data key="label"></data>
+    </edge>
+    <edge source="N198" target="N207">
+      <data key="label"></data>
+    </edge>
+    <edge source="N400" target="N404">
+      <data key="label"></data>
+    </edge>
+    <edge source="N202" target="N208">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of Copy1 of N43" target="Copy1 of N53">
+      <data key="label"></data>
+    </edge>
+    <edge source="N395" target="N404">
+      <data key="label"></data>
+    </edge>
+    <edge source="N120" target="N162">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of Copy1 of Copy1 of N43" target="Copy1 of N42">
+      <data key="label"></data>
+    </edge>
+    <edge source="N255" target="N253">
+      <data key="label"></data>
+    </edge>
+    <edge source="N9" target="N8">
+      <data key="label"></data>
+    </edge>
+    <edge source="N118" target="N126">
+      <data key="label"></data>
+    </edge>
+    <edge source="N43" target="Copy1 of Copy1 of N43">
+      <data key="label"></data>
+    </edge>
+    <edge source="N2" target="N3">
+      <data key="label"></data>
+    </edge>
+    <edge source="N53" target="N54">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N215" target="N268">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of Copy2 of N11" target="N18">
+      <data key="label"></data>
+    </edge>
+    <edge source="N396" target="N388">
+      <data key="label">
+</data>
+    </edge>
+    <edge source="N70" target="N71">
+      <data key="label"></data>
+    </edge>
+    <edge source="N206" target="N204">
+      <data key="label"></data>
+    </edge>
+    <edge source="N268" target="N266">
+      <data key="label"></data>
+    </edge>
+    <edge source="N392" target="N390">
+      <data key="label"></data>
+    </edge>
+    <edge source="N331" target="N348">
+      <data key="label"></data>
+    </edge>
+    <edge source="N386" target="N393">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N215" target="N267">
+      <data key="label"></data>
+    </edge>
+    <edge source="N105" target="N167">
+      <data key="label"></data>
+    </edge>
+    <edge source="N284" target="N292">
+      <data key="label"></data>
+    </edge>
+    <edge source="N42" target="Copy1 of N42">
+      <data key="label"></data>
+    </edge>
+    <edge source="N61" target="N62">
+      <data key="label"></data>
+    </edge>
+    <edge source="N8" target="N30">
+      <data key="label">кто</data>
+    </edge>
+    <edge source="N137" target="N138">
+      <data key="label">в одной из реализаций</data>
+    </edge>
+    <edge source="Copy1 of N215" target="N269">
+      <data key="label">пример</data>
+    </edge>
+    <edge source="N249" target="N250">
+      <data key="label">2</data>
+    </edge>
+    <edge source="N112" target="N150">
+      <data key="label"></data>
+    </edge>
+    <edge source="N222" target="N243">
+      <data key="label"></data>
+    </edge>
+    <edge source="N116" target="N125">
+      <data key="label"></data>
+    </edge>
+    <edge source="N365" target="N366">
+      <data key="label"></data>
+    </edge>
+    <edge source="N17" target="N38">
+      <data key="label">содержит</data>
+    </edge>
+    <edge source="N356" target="N357">
+      <data key="label"></data>
+    </edge>
+    <edge source="N98" target="N101">
+      <data key="label"></data>
+    </edge>
+    <edge source="N8" target="N3">
+      <data key="label"></data>
+    </edge>
+    <edge source="N138" target="N153">
+      <data key="label"></data>
+    </edge>
+    <edge source="N243" target="N234">
+      <data key="label">4</data>
+    </edge>
+    <edge source="N356" target="N359">
+      <data key="label"></data>
+    </edge>
+    <edge source="N305" target="N309">
+      <data key="label">мысль</data>
+    </edge>
+    <edge source="N319" target="N320">
+      <data key="label"></data>
+    </edge>
+    <edge source="N257" target="N258">
+      <data key="label"></data>
+    </edge>
+    <edge source="N334" target="N336">
+      <data key="label"></data>
+    </edge>
+    <edge source="N94" target="N92">
+      <data key="label"></data>
+    </edge>
+    <edge source="N215" target="N265">
+      <data key="label">тезис</data>
+    </edge>
+    <edge source="N313" target="N316">
+      <data key="label"></data>
+    </edge>
+    <edge source="N274" target="N380">
+      <data key="label"></data>
+    </edge>
+    <edge source="N284" target="Copy1 of N293">
+      <data key="label"></data>
+    </edge>
+    <edge source="N50" target="N55">
+      <data key="label"></data>
+    </edge>
+    <edge source="N189" target="N195">
+      <data key="label"></data>
+    </edge>
+    <edge source="N124" target="N129">
+      <data key="label"></data>
+    </edge>
+    <edge source="N193" target="N197">
+      <data key="label">может симулировать</data>
+    </edge>
+    <edge source="N91" target="N93">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy2 of N11" target="N13">
+      <data key="label">изменяет</data>
+    </edge>
+    <edge source="N401" target="N396">
+      <data key="label"></data>
+    </edge>
+    <edge source="N202" target="N200">
+      <data key="label"></data>
+    </edge>
+    <edge source="N102" target="N116">
+      <data key="label"></data>
+    </edge>
+    <edge source="N222" target="N240">
+      <data key="label">это</data>
+    </edge>
+    <edge source="N11" target="Copy1 of Copy2 of N11">
+      <data key="label">изменяет</data>
+    </edge>
+    <edge source="N77" target="N78">
+      <data key="label"></data>
+    </edge>
+    <edge source="N283" target="N285">
+      <data key="label"></data>
+    </edge>
+    <edge source="N367" target="N369">
+      <data key="label"></data>
+    </edge>
+    <edge source="N279" target="N280">
+      <data key="label"></data>
+    </edge>
+    <edge source="N115" target="N120">
+      <data key="label"></data>
+    </edge>
+    <edge source="N332" target="N331">
+      <data key="label"></data>
+    </edge>
+    <edge source="N282" target="N381">
+      <data key="label"></data>
+    </edge>
+    <edge source="N13" target="N30">
+      <data key="label">среди</data>
+    </edge>
+    <edge source="Copy1 of N218" target="N219">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of Copy2 of N11" target="N34">
+      <data key="label">есть</data>
+    </edge>
+    <edge source="N126" target="N116">
+      <data key="label"></data>
+    </edge>
+    <edge source="N121" target="N123">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N42" target="Copy1 of N43">
+      <data key="label"></data>
+    </edge>
+    <edge source="N119" target="N161">
+      <data key="label"></data>
+    </edge>
+    <edge source="N72" target="N73">
+      <data key="label"></data>
+    </edge>
+    <edge source="N13" target="N81">
+      <data key="label"></data>
+    </edge>
+    <edge source="N110" target="N108">
+      <data key="label"></data>
+    </edge>
+    <edge source="N332" target="N333">
+      <data key="label"></data>
+    </edge>
+    <edge source="N375" target="N377">
+      <data key="label">размышление</data>
+    </edge>
+    <edge source="N97" target="N98">
+      <data key="label"></data>
+    </edge>
+    <edge source="N206" target="N205">
+      <data key="label"></data>
+    </edge>
+    <edge source="N206" target="N199">
+      <data key="label"></data>
+    </edge>
+    <edge source="N247" target="N245">
+      <data key="label">0</data>
+    </edge>
+    <edge source="N371" target="N372">
+      <data key="label"></data>
+    </edge>
+    <edge source="N42" target="N43">
+      <data key="label"></data>
+    </edge>
+    <edge source="N391" target="N390">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N201" target="Copy1 of N206">
+      <data key="label"></data>
+    </edge>
+    <edge source="N111" target="N116">
+      <data key="label"></data>
+    </edge>
+    <edge source="N272" target="N273">
+      <data key="label"></data>
+    </edge>
+    <edge source="N327" target="N328">
+      <data key="label"></data>
+    </edge>
+    <edge source="N138" target="N157">
+      <data key="label"></data>
+    </edge>
+    <edge source="N69" target="N69">
+      <data key="label"></data>
+    </edge>
+    <edge source="N50" target="N56">
+      <data key="label"></data>
+    </edge>
+    <edge source="N247" target="N246">
+      <data key="label">0</data>
+    </edge>
+    <edge source="N119" target="N125">
+      <data key="label"></data>
+    </edge>
+    <edge source="N363" target="N371">
+      <data key="label"></data>
+    </edge>
+    <edge source="N179" target="N183">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N219" target="N220">
+      <data key="label">это</data>
+    </edge>
+    <edge source="N211" target="N209">
+      <data key="label"></data>
+    </edge>
+    <edge source="N303" target="N293">
+      <data key="label"></data>
+    </edge>
+    <edge source="N346" target="N355">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of Copy1 of N43" target="Copy1 of N50">
+      <data key="label"></data>
+    </edge>
+    <edge source="N60" target="N63">
+      <data key="label">кстати</data>
+    </edge>
+    <edge source="N374" target="N378">
+      <data key="label"></data>
+    </edge>
+    <edge source="N138" target="N145">
+      <data key="label">размышление</data>
+    </edge>
+    <edge source="N222" target="N225">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N218" target="Copy1 of N219">
+      <data key="label"></data>
+    </edge>
+    <edge source="N83" target="N82">
+      <data key="label">чего</data>
+    </edge>
+    <edge source="N102" target="N8">
+      <data key="label"></data>
+    </edge>
+    <edge source="N13" target="N20">
+      <data key="label"></data>
+    </edge>
+    <edge source="N232" target="N233">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N11" target="N21">
+      <data key="label">есть</data>
+    </edge>
+    <edge source="N45" target="N51">
+      <data key="label"></data>
+    </edge>
+    <edge source="N315" target="N316">
+      <data key="label">5</data>
+    </edge>
+    <edge source="N192" target="N193">
+      <data key="label"></data>
+    </edge>
+    <edge source="N45" target="Copy1 of N42">
+      <data key="label"></data>
+    </edge>
+    <edge source="N118" target="N160">
+      <data key="label"></data>
+    </edge>
+    <edge source="N123" target="N150">
+      <data key="label"></data>
+    </edge>
+    <edge source="N1" target="N7">
+      <data key="label"></data>
+    </edge>
+    <edge source="N378" target="N385">
+      <data key="label"></data>
+    </edge>
+    <edge source="N366" target="N369">
+      <data key="label"></data>
+    </edge>
+    <edge source="N224" target="N254">
+      <data key="label"></data>
+    </edge>
+    <edge source="N106" target="N135">
+      <data key="label"></data>
+    </edge>
+    <edge source="N141" target="N143">
+      <data key="label"></data>
+    </edge>
+    <edge source="N82" target="N97">
+      <data key="label"></data>
+    </edge>
+    <edge source="N313" target="N315">
+      <data key="label"></data>
+    </edge>
+    <edge source="N168" target="N169">
+      <data key="label">размышление</data>
+    </edge>
+    <edge source="N286" target="N287">
+      <data key="label"></data>
+    </edge>
+    <edge source="N83" target="N86">
+      <data key="label">расширение 1</data>
+    </edge>
+    <edge source="N278" target="N380">
+      <data key="label"></data>
+    </edge>
+    <edge source="N319" target="N318">
+      <data key="label">это</data>
+    </edge>
+    <edge source="N199" target="N198">
+      <data key="label"></data>
+    </edge>
+    <edge source="N318" target="N318">
+      <data key="label">6</data>
+    </edge>
+    <edge source="N275" target="N276">
+      <data key="label"></data>
+    </edge>
+    <edge source="N388" target="N394">
+      <data key="label"></data>
+    </edge>
+    <edge source="N135" target="N136">
+      <data key="label"></data>
+    </edge>
+    <edge source="N301" target="N291">
+      <data key="label"></data>
+    </edge>
+    <edge source="N241" target="N242">
+      <data key="label">2</data>
+    </edge>
+    <edge source="Copy1 of N293" target="N296">
+      <data key="label"></data>
+    </edge>
+    <edge source="N331" target="N354">
+      <data key="label"></data>
+    </edge>
+    <edge source="N242" target="N243">
+      <data key="label">3</data>
+    </edge>
+    <edge source="N222" target="N221">
+      <data key="label">7</data>
+    </edge>
+    <edge source="N11" target="N17">
+      <data key="label">есть</data>
+    </edge>
+    <edge source="N335" target="N337">
+      <data key="label"></data>
+    </edge>
+    <edge source="N288" target="N289">
+      <data key="label"></data>
+    </edge>
+    <edge source="N138" target="N154">
+      <data key="label"></data>
+    </edge>
+    <edge source="N111" target="N117">
+      <data key="label"></data>
+    </edge>
+    <edge source="N11" target="N37">
+      <data key="label">смысл</data>
+    </edge>
+    <edge source="N147" target="N151">
+      <data key="label"></data>
+    </edge>
+    <edge source="N333" target="N334">
+      <data key="label"></data>
+    </edge>
+    <edge source="N252" target="N234">
+      <data key="label">этому</data>
+    </edge>
+    <edge source="N181" target="N171">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N219" target="Copy1 of N218">
+      <data key="label"></data>
+    </edge>
+    <edge source="N12" target="N13">
+      <data key="label">преобразуются в</data>
+    </edge>
+    <edge source="N281" target="N380">
+      <data key="label"></data>
+    </edge>
+    <edge source="N121" target="N164">
+      <data key="label"></data>
+    </edge>
+    <edge source="N273" target="N279">
+      <data key="label"></data>
+    </edge>
+    <edge source="N305" target="N306">
+      <data key="label"></data>
+    </edge>
+    <edge source="N201" target="N208">
+      <data key="label"></data>
+    </edge>
+    <edge source="N221" target="N231">
+      <data key="label"></data>
+    </edge>
+    <edge source="N331" target="N351">
+      <data key="label"></data>
+    </edge>
+    <edge source="N241" target="N251">
+      <data key="label">это</data>
+    </edge>
+    <edge source="Copy1 of N206" target="Copy1 of N205">
+      <data key="label"></data>
+    </edge>
+    <edge source="N281" target="N379">
+      <data key="label"></data>
+    </edge>
+    <edge source="N30" target="N32">
+      <data key="label"></data>
+    </edge>
+    <edge source="N287" target="N288">
+      <data key="label"></data>
+    </edge>
+    <edge source="N112" target="N107">
+      <data key="label"></data>
+    </edge>
+    <edge source="N115" target="N118">
+      <data key="label"></data>
+    </edge>
+    <edge source="N115" target="N127">
+      <data key="label">кстати</data>
+    </edge>
+    <edge source="N230" target="N227">
+      <data key="label">6</data>
+    </edge>
+    <edge source="N93" target="N95">
+      <data key="label"></data>
+    </edge>
+    <edge source="N183" target="N184">
+      <data key="label"></data>
+    </edge>
+    <edge source="N109" target="N136">
+      <data key="label"></data>
+    </edge>
+    <edge source="N222" target="N226">
+      <data key="label"></data>
+    </edge>
+    <edge source="N73" target="N74">
+      <data key="label"></data>
+    </edge>
+    <edge source="N130" target="N163">
+      <data key="label"></data>
+    </edge>
+    <edge source="N120" target="N125">
+      <data key="label"></data>
+    </edge>
+    <edge source="N104" target="N102">
+      <data key="label"></data>
+    </edge>
+    <edge source="N265" target="N240">
+      <data key="label">пример использования</data>
+    </edge>
+    <edge source="N218" target="Copy1 of N219">
+      <data key="label"></data>
+    </edge>
+    <edge source="N148" target="N149">
+      <data key="label"></data>
+    </edge>
+    <edge source="N252" target="N230">
+      <data key="label">это</data>
+    </edge>
+    <edge source="N138" target="N141">
+      <data key="label"></data>
+    </edge>
+    <edge source="N218" target="N219">
+      <data key="label"></data>
+    </edge>
+    <edge source="N109" target="N112">
+      <data key="label"></data>
+    </edge>
+    <edge source="N364" target="N365">
+      <data key="label"></data>
+    </edge>
+    <edge source="N385" target="N386">
+      <data key="label"></data>
+    </edge>
+    <edge source="N209" target="N198">
+      <data key="label"></data>
+    </edge>
+    <edge source="N130" target="N131">
+      <data key="label"></data>
+    </edge>
+    <edge source="N192" target="N190">
+      <data key="label"></data>
+    </edge>
+    <edge source="N174" target="N177">
+      <data key="label"></data>
+    </edge>
+    <edge source="N44" target="N68">
+      <data key="label"></data>
+    </edge>
+    <edge source="N331" target="N346">
+      <data key="label"></data>
+    </edge>
+    <edge source="N110" target="N112">
+      <data key="label"></data>
+    </edge>
+    <edge source="N110" target="N126">
+      <data key="label"></data>
+    </edge>
+    <edge source="N337" target="N338">
+      <data key="label"></data>
+    </edge>
+    <edge source="N208" target="N207">
+      <data key="label"></data>
+    </edge>
+    <edge source="N46" target="N47">
+      <data key="label">вывод</data>
+    </edge>
+    <edge source="N78" target="N79">
+      <data key="label"></data>
+    </edge>
+    <edge source="N261" target="N262">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N215" target="N266">
+      <data key="label"></data>
+    </edge>
+    <edge source="N282" target="N275">
+      <data key="label"></data>
+    </edge>
+    <edge source="N270" target="N379">
+      <data key="label"></data>
+    </edge>
+    <edge source="N205" target="N207">
+      <data key="label"></data>
+    </edge>
+    <edge source="N109" target="N133">
+      <data key="label"></data>
+    </edge>
+    <edge source="N1" target="N6">
+      <data key="label"></data>
+    </edge>
+    <edge source="N2" target="N7">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy2 of N11" target="N33">
+      <data key="label">смысл</data>
+    </edge>
+    <edge source="N138" target="N156">
+      <data key="label"></data>
+    </edge>
+    <edge source="N250" target="N244">
+      <data key="label">3</data>
+    </edge>
+    <edge source="N385" target="N403">
+      <data key="label"></data>
+    </edge>
+    <edge source="N30" target="N31">
+      <data key="label"></data>
+    </edge>
+    <edge source="N180" target="N188">
+      <data key="label">следующий ход</data>
+    </edge>
+    <edge source="N138" target="N155">
+      <data key="label"></data>
+    </edge>
+    <edge source="N74" target="N75">
+      <data key="label"></data>
+    </edge>
+    <edge source="N209" target="N210">
+      <data key="label"></data>
+    </edge>
+    <edge source="N274" target="N275">
+      <data key="label"></data>
+    </edge>
+    <edge source="N348" target="N349">
+      <data key="label"></data>
+    </edge>
+    <edge source="N191" target="N192">
+      <data key="label"></data>
+    </edge>
+    <edge source="N52" target="N53">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of Copy2 of N11" target="N35">
+      <data key="label">смысл</data>
+    </edge>
+    <edge source="N92" target="N91">
+      <data key="label"></data>
+    </edge>
+    <edge source="N86" target="N90">
+      <data key="label"></data>
+    </edge>
+    <edge source="N387" target="N393">
+      <data key="label"></data>
+    </edge>
+    <edge source="N125" target="N128">
+      <data key="label"></data>
+    </edge>
+    <edge source="N42" target="N69">
+      <data key="label"></data>
+    </edge>
+    <edge source="N171" target="N172">
+      <data key="label"></data>
+    </edge>
+    <edge source="N285" target="N284">
+      <data key="label"></data>
+    </edge>
+    <edge source="N105" target="N104">
+      <data key="label"></data>
+    </edge>
+    <edge source="N14" target="N15">
+      <data key="label">зависимость/условие</data>
+    </edge>
+    <edge source="N189" target="N191">
+      <data key="label"></data>
+    </edge>
+    <edge source="N11" target="Copy2 of N11">
+      <data key="label">изменяет</data>
+    </edge>
+    <edge source="N210" target="N207">
+      <data key="label"></data>
+    </edge>
+    <edge source="N292" target="N297">
+      <data key="label"></data>
+    </edge>
+    <edge source="N240" target="N251">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N206" target="Copy1 of N204">
+      <data key="label"></data>
+    </edge>
+    <edge source="N64" target="N65">
+      <data key="label"></data>
+    </edge>
+    <edge source="N17" target="N47">
+      <data key="label">содержит</data>
+    </edge>
+    <edge source="N408" target="N386">
+      <data key="label"></data>
+    </edge>
+    <edge source="N405" target="N407">
+      <data key="label"></data>
+    </edge>
+    <edge source="N279" target="N379">
+      <data key="label"></data>
+    </edge>
+    <edge source="N145" target="N152">
+      <data key="label"></data>
+    </edge>
+    <edge source="N174" target="N178">
+      <data key="label"></data>
+    </edge>
+    <edge source="N102" target="N103">
+      <data key="label"></data>
+    </edge>
+    <edge source="N132" target="N123">
+      <data key="label"></data>
+    </edge>
+    <edge source="N83" target="N85">
+      <data key="label">кстати</data>
+    </edge>
+    <edge source="N38" target="N39">
+      <data key="label">смысл</data>
+    </edge>
+    <edge source="N141" target="N142">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N199" target="Copy1 of N198">
+      <data key="label"></data>
+    </edge>
+    <edge source="N283" target="N382">
+      <data key="label"></data>
+    </edge>
+    <edge source="N244" target="N235">
+      <data key="label">4</data>
+    </edge>
+    <edge source="N336" target="N343">
+      <data key="label"></data>
+    </edge>
+    <edge source="N131" target="N132">
+      <data key="label"></data>
+    </edge>
+    <edge source="N222" target="N234">
+      <data key="label"></data>
+    </edge>
+    <edge source="N115" target="N121">
+      <data key="label"></data>
+    </edge>
+    <edge source="N399" target="N400">
+      <data key="label"></data>
+    </edge>
+    <edge source="N66" target="N70">
+      <data key="label"></data>
+    </edge>
+    <edge source="N248" target="N247">
+      <data key="label"></data>
+    </edge>
+    <edge source="N293" target="N298">
+      <data key="label"></data>
+    </edge>
+    <edge source="N224" target="N255">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N42" target="N52">
+      <data key="label"></data>
+    </edge>
+    <edge source="N115" target="N108">
+      <data key="label"></data>
+    </edge>
+    <edge source="N204" target="N205">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N204" target="Copy1 of N205">
+      <data key="label"></data>
+    </edge>
+    <edge source="N224" target="N263">
+      <data key="label">размышление</data>
+    </edge>
+    <edge source="Copy1 of N206" target="Copy1 of N199">
+      <data key="label"></data>
+    </edge>
+    <edge source="N170" target="N171">
+      <data key="label"></data>
+    </edge>
+    <edge source="N335" target="N344">
+      <data key="label"></data>
+    </edge>
+    <edge source="N389" target="N387">
+      <data key="label"></data>
+    </edge>
+    <edge source="N331" target="N347">
+      <data key="label"></data>
+    </edge>
+    <edge source="N344" target="N345">
+      <data key="label"></data>
+    </edge>
+    <edge source="N277" target="N278">
+      <data key="label"></data>
+    </edge>
+    <edge source="N177" target="N179">
+      <data key="label"></data>
+    </edge>
+    <edge source="N395" target="N406">
+      <data key="label"></data>
+    </edge>
+    <edge source="N138" target="N159">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N43" target="N50">
+      <data key="label"></data>
+    </edge>
+    <edge source="N102" target="N115">
+      <data key="label"></data>
+    </edge>
+    <edge source="N17" target="N49">
+      <data key="label"></data>
+    </edge>
+    <edge source="N370" target="N363">
+      <data key="label"></data>
+    </edge>
+    <edge source="N44" target="N42">
+      <data key="label"></data>
+    </edge>
+    <edge source="N397" target="N400">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy2 of N11" target="N16">
+      <data key="label">есть</data>
+    </edge>
+    <edge source="N180" target="N181">
+      <data key="label"></data>
+    </edge>
+    <edge source="N103" target="N105">
+      <data key="label"></data>
+    </edge>
+    <edge source="N318" target="N316">
+      <data key="label"></data>
+    </edge>
+    <edge source="N331" target="N352">
+      <data key="label"></data>
+    </edge>
+    <edge source="N87" target="N88">
+      <data key="label">размышление</data>
+    </edge>
+    <edge source="N5" target="N3">
+      <data key="label"></data>
+    </edge>
+    <edge source="N284" target="N382">
+      <data key="label"></data>
+    </edge>
+    <edge source="N99" target="N100">
+      <data key="label">есть</data>
+    </edge>
+    <edge source="N278" target="N280">
+      <data key="label"></data>
+    </edge>
+    <edge source="N65" target="N66">
+      <data key="label"></data>
+    </edge>
+    <edge source="N327" target="N332">
+      <data key="label"></data>
+    </edge>
+    <edge source="N216" target="N217">
+      <data key="label">может быть</data>
+    </edge>
+    <edge source="N375" target="N374">
+      <data key="label"></data>
+    </edge>
+    <edge source="N1" target="N4">
+      <data key="label"></data>
+    </edge>
+    <edge source="N149" target="N150">
+      <data key="label"></data>
+    </edge>
+    <edge source="N229" target="N228">
+      <data key="label">6</data>
+    </edge>
+    <edge source="N323" target="N324">
+      <data key="label"></data>
+    </edge>
+    <edge source="N56" target="Copy1 of N53">
+      <data key="label"></data>
+    </edge>
+    <edge source="N286" target="N383">
+      <data key="label"></data>
+    </edge>
+    <edge source="N110" target="N148">
+      <data key="label"></data>
+    </edge>
+    <edge source="N110" target="N111">
+      <data key="label"></data>
+    </edge>
+    <edge source="N50" target="N54">
+      <data key="label"></data>
+    </edge>
+    <edge source="N258" target="N259">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N202" target="Copy1 of N198">
+      <data key="label"></data>
+    </edge>
+    <edge source="N280" target="N281">
+      <data key="label"></data>
+    </edge>
+    <edge source="N47" target="N38">
+      <data key="label">вывод</data>
+    </edge>
+    <edge source="N173" target="N174">
+      <data key="label"></data>
+    </edge>
+    <edge source="N141" target="N144">
+      <data key="label"></data>
+    </edge>
+    <edge source="N19" target="N13">
+      <data key="label"></data>
+    </edge>
+    <edge source="N346" target="N360">
+      <data key="label"></data>
+    </edge>
+    <edge source="N184" target="N180">
+      <data key="label"></data>
+    </edge>
+    <edge source="N176" target="N179">
+      <data key="label"></data>
+    </edge>
+    <edge source="N1" target="N1">
+      <data key="label"></data>
+    </edge>
+    <edge source="N212" target="N214">
+      <data key="label">размышление</data>
+    </edge>
+    <edge source="N115" target="N119">
+      <data key="label"></data>
+    </edge>
+    <edge source="N290" target="N383">
+      <data key="label"></data>
+    </edge>
+    <edge source="N150" target="N147">
+      <data key="label"></data>
+    </edge>
+    <edge source="N293" target="N299">
+      <data key="label"></data>
+    </edge>
+    <edge source="N44" target="N45">
+      <data key="label"></data>
+    </edge>
+    <edge source="N300" target="Copy1 of N293">
+      <data key="label"></data>
+    </edge>
+    <edge source="N222" target="N241">
+      <data key="label"></data>
+    </edge>
+    <edge source="N67" target="N64">
+      <data key="label"></data>
+    </edge>
+    <edge source="N375" target="N370">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N202" target="Copy1 of N200">
+      <data key="label"></data>
+    </edge>
+    <edge source="N329" target="N330">
+      <data key="label"></data>
+    </edge>
+    <edge source="N278" target="N381">
+      <data key="label"></data>
+    </edge>
+    <edge source="N51" target="N52">
+      <data key="label"></data>
+    </edge>
+    <edge source="N110" target="N109">
+      <data key="label"></data>
+    </edge>
+    <edge source="N8" target="N10">
+      <data key="label"></data>
+    </edge>
+    <edge source="N393" target="N397">
+      <data key="label"></data>
+    </edge>
+    <edge source="N290" target="N293">
+      <data key="label"></data>
+    </edge>
+    <edge source="N138" target="N140">
+      <data key="label"></data>
+    </edge>
+    <edge source="N136" target="N137">
+      <data key="label"></data>
+    </edge>
+    <edge source="N120" target="N122">
+      <data key="label">объяснение</data>
+    </edge>
+    <edge source="N11" target="N11">
+      <data key="label">изменяет</data>
+    </edge>
+    <edge source="N105" target="N106">
+      <data key="label"></data>
+    </edge>
+    <edge source="N347" target="N349">
+      <data key="label"></data>
+    </edge>
+    <edge source="N195" target="N196">
+      <data key="label">размышление</data>
+    </edge>
+    <edge source="N17" target="N48">
+      <data key="label"></data>
+    </edge>
+    <edge source="N387" target="N391">
+      <data key="label"></data>
+    </edge>
+    <edge source="N402" target="N396">
+      <data key="label"></data>
+    </edge>
+    <edge source="N26" target="N26">
+      <data key="label"></data>
+    </edge>
+    <edge source="N246" target="N241">
+      <data key="label">1</data>
+    </edge>
+    <edge source="N254" target="N261">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N11" target="N11">
+      <data key="label">изменяет</data>
+    </edge>
+    <edge source="N356" target="N358">
+      <data key="label"></data>
+    </edge>
+    <edge source="N281" target="N381">
+      <data key="label"></data>
+    </edge>
+    <edge source="N106" target="N112">
+      <data key="label"></data>
+    </edge>
+    <edge source="N43" target="N42">
+      <data key="label"></data>
+    </edge>
+    <edge source="N235" target="N229">
+      <data key="label">5</data>
+    </edge>
+    <edge source="N219" target="N218">
+      <data key="label"></data>
+    </edge>
+    <edge source="N109" target="N115">
+      <data key="label"></data>
+    </edge>
+    <edge source="N388" target="N392">
+      <data key="label"></data>
+    </edge>
+    <edge source="N60" target="N61">
+      <data key="label"></data>
+    </edge>
+    <edge source="N281" target="Copy1 of N293">
+      <data key="label"></data>
+    </edge>
+    <edge source="N372" target="N364">
+      <data key="label"></data>
+    </edge>
+    <edge source="N116" target="N108">
+      <data key="label"></data>
+    </edge>
+    <edge source="N90" target="N94">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N50" target="Copy1 of Copy1 of Copy1 of N43">
+      <data key="label"></data>
+    </edge>
+    <edge source="N394" target="N399">
+      <data key="label"></data>
+    </edge>
+    <edge source="N306" target="N307">
+      <data key="label"></data>
+    </edge>
+    <edge source="N339" target="N340">
+      <data key="label"></data>
+    </edge>
+    <edge source="N335" target="N339">
+      <data key="label"></data>
+    </edge>
+    <edge source="N53" target="N56">
+      <data key="label"></data>
+    </edge>
+    <edge source="N92" target="N96">
+      <data key="label">к сведению</data>
+    </edge>
+    <edge source="N302" target="N292">
+      <data key="label"></data>
+    </edge>
+    <edge source="N234" target="N241">
+      <data key="label"></data>
+    </edge>
+    <edge source="N10" target="N8">
+      <data key="label"></data>
+    </edge>
+    <edge source="N97" target="N99">
+      <data key="label"></data>
+    </edge>
+    <edge source="N54" target="Copy1 of N53">
+      <data key="label"></data>
+    </edge>
+    <edge source="N331" target="N353">
+      <data key="label"></data>
+    </edge>
+    <edge source="N151" target="N110">
+      <data key="label"></data>
+    </edge>
+    <edge source="N276" target="N381">
+      <data key="label"></data>
+    </edge>
+    <edge source="N388" target="N389">
+      <data key="label"></data>
+    </edge>
+    <edge source="N168" target="N170">
+      <data key="label">пример</data>
+    </edge>
+    <edge source="N138" target="N139">
+      <data key="label"></data>
+    </edge>
+    <edge source="Copy1 of N43" target="N53">
+      <data key="label"></data>
+    </edge>
+    <edge source="N237" target="N237">
+      <data key="label"></data>
+    </edge>
+    <edge source="N225" target="N222">
+      <data key="label"></data>
+    </edge>
+    <edge source="N55" target="Copy1 of N53">
+      <data key="label"></data>
+    </edge>
+    <edge source="N226" target="N222">
+      <data key="label"></data>
+    </edge>
+    <edge source="N281" target="N291">
+      <data key="label"></data>
+    </edge>
+    <edge source="N266" target="N267">
+      <data key="label"></data>
+    </edge>
+    <edge source="N234" target="N229">
+      <data key="label">5</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,39 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+
+# This file is for zig-specific build artifacts.
+# If you have OS-specific or editor-specific files to ignore,
+# such as *.swp or .DS_Store, put those in your global
+# ~/.gitignore and put this in your ~/.gitconfig:
+#
+# [core]
+#     excludesfile = ~/.gitignore
+#
+# Cheers!
+# -andrewrk
+
+zig-cache/
+zig-out/
+/release/
+/debug/
+/build/
+/build-*/
+/docgen_tmp/
+
+.vscode

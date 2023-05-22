@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+    <key id="comment" attr.name="comment" for="graph" attr.type="string">
+        <default></default>
+    </key>
+    <key id="creator" attr.name="creator" for="graph" attr.type="string">
+        <default>Qt Visual Graph Editor 0.6.3</default>
+    </key>
+    <key id="labels.policy" attr.name="labels.policy" for="graph" attr.type="integer">
+        <default>0</default>
+    </key>
+    <key id="color" attr.name="color" for="edge" attr.type="string">
+        <default>#6f73c0</default>
+    </key>
+    <key id="direction" attr.name="direction" for="edge" attr.type="string">
+        <default>directed</default>
+    </key>
+    <key id="label.color" attr.name="label.color" for="edge" attr.type="string">
+        <default>#aad6ff</default>
+    </key>
+    <key id="label.font" attr.name="label.font" for="edge" attr.type="string">
+        <default>Noto Sans,7,-1,0,50,0,0,0,0,0</default>
+    </key>
+    <key id="labels.visibleIds" attr.name="labels.visibleIds" for="edge" attr.type="string">
+        <default>label</default>
+    </key>
+    <key id="points" attr.name="points" for="edge" attr.type="string"/>
+    <key id="style" attr.name="style" for="edge" attr.type="string">
+        <default>solid</default>
+    </key>
+    <key id="weight" attr.name="weight" for="edge" attr.type="double">
+        <default>1</default>
+    </key>
+    <key id="color" attr.name="color" for="node" attr.type="string">
+        <default>#000000</default>
+    </key>
+    <key id="label.color" attr.name="label.color" for="node" attr.type="string">
+        <default>#dcdcdc</default>
+    </key>
+    <key id="labels.visibleIds" attr.name="labels.visibleIds" for="node" attr.type="string">
+        <default>label</default>
+    </key>
+    <key id="shape" attr.name="shape" for="node" attr.type="string">
+        <default>disc</default>
+    </key>
+    <key id="stroke.color" attr.name="stroke.color" for="node" attr.type="string">
+        <default>#6f73c0</default>
+    </key>
+    <key id="stroke.size" attr.name="stroke.size" for="node" attr.type="double">
+        <default>1</default>
+    </key>
+    <key id="stroke.style" attr.name="stroke.style" for="node" attr.type="string">
+        <default>solid</default>
+    </key>
+    <key id="x" attr.name="x" for="node" attr.type="float"/>
+    <key id="y" attr.name="y" for="node" attr.type="float"/>
+    <graph edgedefault="directed">
+        <node id="N31">
+            <data key="height">11</data>
+            <data key="label">Надо прочитать дату прошлого изменения БД.</data>
+            <data key="width">11</data>
+            <data key="x">175</data>
+            <data key="y">1225</data>
+        </node>
+        <node id="N6">
+            <data key="height">11</data>
+            <data key="label">текст</data>
+            <data key="width">11</data>
+            <data key="x">-375</data>
+            <data key="y">25</data>
+        </node>
+        <node id="N30">
+            <data key="height">11</data>
+            <data key="label">Надо найти оптимальный путь
+на компьютере. </data>
+            <data key="width">11</data>
+            <data key="x">-100</data>
+            <data key="y">1225</data>
+        </node>
+        <node id="N35">
+            <data key="height">11</data>
+            <data key="label">Можно обозначить часть типов
+распознаваемых процессором</data>
+            <data key="width">11</data>
+            <data key="x">-275</data>
+            <data key="y">475</data>
+        </node>
+        <node id="N38">
+            <data key="height">11</data>
+            <data key="width">11</data>
+            <data key="x">125</data>
+            <data key="y">625</data>
+        </node>
+        <node id="N27">
+            <data key="height">11</data>
+            <data key="label">CSR</data>
+            <data key="width">11</data>
+            <data key="x">400</data>
+            <data key="y">550</data>
+        </node>
+        <node id="N29">
+            <data key="height">11</data>
+            <data key="label">другие
+реализации
+в памяти</data>
+            <data key="width">11</data>
+            <data key="x">475</data>
+            <data key="y">550</data>
+        </node>
+        <node id="N34">
+            <data key="height">11</data>
+            <data key="label">NaN</data>
+            <data key="width">11</data>
+            <data key="x">-250</data>
+            <data key="y">-925</data>
+        </node>
+        <node id="N24">
+            <data key="height">11</data>
+            <data key="label">NaN</data>
+            <data key="width">11</data>
+            <data key="x">-25</data>
+            <data key="y">1725</data>
+        </node>
+        <node id="N25">
+            <data key="height">11</data>
+            <data key="label">запуск</data>
+            <data key="width">11</data>
+            <data key="x">0</data>
+            <data key="y">550</data>
+        </node>
+        <node id="N19">
+            <data key="height">11</data>
+            <data key="label">операции</data>
+            <data key="width">11</data>
+            <data key="x">125</data>
+            <data key="y">625</data>
+        </node>
+        <node id="N12">
+            <data key="height">11</data>
+            <data key="label">bool</data>
+            <data key="width">11</data>
+            <data key="x">-175</data>
+            <data key="y">700</data>
+        </node>
+        <node id="N1">
+            <data key="height">11</data>
+            <data key="label">Представление парсера типов
+в виде графплана</data>
+            <data key="width">11</data>
+            <data key="x">-75</data>
+            <data key="y">100</data>
+        </node>
+        <node id="N17">
+            <data key="height">11</data>
+            <data key="width">11</data>
+            <data key="x">-425</data>
+            <data key="y">375</data>
+        </node>
+        <node id="N28">
+            <data key="height">11</data>
+            <data key="label">функции
+доступа</data>
+            <data key="width">11</data>
+            <data key="x">250</data>
+            <data key="y">550</data>
+        </node>
+        <node id="N5">
+            <data key="height">11</data>
+            <data key="label">Так, как всё, что делается,
+делается для продолжения
+жизни, то </data>
+            <data key="width">11</data>
+            <data key="x">-375</data>
+            <data key="y">100</data>
+        </node>
+        <node id="N8">
+            <data key="height">11</data>
+            <data key="label">Алгоритм жизни может
+помочь в избавлении
+от ненужного и он
+может оптимизировать
+себя неограниченно.</data>
+            <data key="width">11</data>
+            <data key="x">-625</data>
+            <data key="y">100</data>
+        </node>
+        <node id="N20">
+            <data key="height">11</data>
+            <data key="label">прочее</data>
+            <data key="width">11</data>
+            <data key="x">-375</data>
+            <data key="y">550</data>
+        </node>
+        <node id="N23">
+            <data key="height">11</data>
+            <data key="label">Исполнение процедур можно подразделить
+описав случай в котором нужно что-то
+делать с данными нужного типа. </data>
+            <data key="width">11</data>
+            <data key="x">0</data>
+            <data key="y">425</data>
+        </node>
+        <node id="N2">
+            <data key="height">11</data>
+            <data key="label">Граф</data>
+            <data key="width">11</data>
+            <data key="x">49.99999999999966</data>
+            <data key="y">300</data>
+        </node>
+        <node id="N7">
+            <data key="height">11</data>
+            <data key="label">Запуск парсера</data>
+            <data key="width">11</data>
+            <data key="x">-200.00000000000034</data>
+            <data key="y">300</data>
+        </node>
+        <node id="N9">
+            <data key="height">11</data>
+            <data key="label">типы</data>
+            <data key="width">11</data>
+            <data key="x">-275</data>
+            <data key="y">550</data>
+        </node>
+        <node id="N40">
+            <data key="height">11</data>
+            <data key="label">входы
+операции</data>
+            <data key="width">11</data>
+            <data key="x">-50</data>
+            <data key="y">700</data>
+        </node>
+        <node id="N15">
+            <data key="height">11</data>
+            <data key="width">11</data>
+            <data key="x">225</data>
+            <data key="y">25</data>
+        </node>
+        <node id="N21">
+            <data key="height">11</data>
+            <data key="label">Таким образом можно будет сделать
+план для исполнения компьютером.</data>
+            <data key="width">11</data>
+            <data key="x">275</data>
+            <data key="y">250</data>
+        </node>
+        <node id="N41">
+            <data key="height">11</data>
+            <data key="label">выходы
+операции</data>
+            <data key="width">11</data>
+            <data key="x">25</data>
+            <data key="y">650</data>
+        </node>
+        <node id="N4">
+            <data key="height">11</data>
+            <data key="label">исполнение процедур</data>
+            <data key="shape">square</data>
+            <data key="width">11</data>
+            <data key="x">-75</data>
+            <data key="y">375.00000000000006</data>
+        </node>
+        <node id="N11">
+            <data key="height">11</data>
+            <data key="label">float</data>
+            <data key="width">11</data>
+            <data key="x">-225</data>
+            <data key="y">700</data>
+        </node>
+        <node id="N36">
+            <data key="height">11</data>
+            <data key="label">переменная</data>
+            <data key="width">11</data>
+            <data key="x">-275</data>
+            <data key="y">625</data>
+        </node>
+        <node id="N14">
+            <data key="height">11</data>
+            <data key="width">11</data>
+            <data key="x">-75</data>
+            <data key="y">625</data>
+        </node>
+        <node id="N3">
+            <data key="height">11</data>
+            <data key="label">Парсер</data>
+            <data key="width">11</data>
+            <data key="x">-75</data>
+            <data key="y">300</data>
+        </node>
+        <node id="N16">
+            <data key="height">11</data>
+            <data key="label">NaN</data>
+            <data key="width">11</data>
+            <data key="x">-1000</data>
+            <data key="y">-25</data>
+        </node>
+        <node id="N33">
+            <data key="height">11</data>
+            <data key="label">NaN</data>
+            <data key="width">11</data>
+            <data key="x">925</data>
+            <data key="y">125</data>
+        </node>
+        <node id="N39">
+            <data key="height">11</data>
+            <data key="label">У операций есть код, а затем операнды.
+Число операндов может быть как
+одинаковым, так и разным. Так, как
+используются процедуры, то их число
+вероятнее всего разное. </data>
+            <data key="width">11</data>
+            <data key="x">300</data>
+            <data key="y">625</data>
+        </node>
+        <node id="N32">
+            <data key="height">11</data>
+            <data key="width">11</data>
+            <data key="x">550</data>
+            <data key="y">550</data>
+        </node>
+        <node id="N13">
+            <data key="height">11</data>
+            <data key="label">опкод</data>
+            <data key="width">11</data>
+            <data key="x">-125</data>
+            <data key="y">625</data>
+        </node>
+        <node id="N26">
+            <data key="height">11</data>
+            <data key="label">adjmat</data>
+            <data key="width">11</data>
+            <data key="x">324.9999999999999</data>
+            <data key="y">550</data>
+        </node>
+        <node id="N37">
+            <data key="height">11</data>
+            <data key="label">исполнение процедуры</data>
+            <data key="shape">square</data>
+            <data key="width">11</data>
+            <data key="x">125</data>
+            <data key="y">750</data>
+        </node>
+        <node id="N10">
+            <data key="height">11</data>
+            <data key="label">int</data>
+            <data key="width">11</data>
+            <data key="x">-275</data>
+            <data key="y">700</data>
+        </node>
+        <node id="N22">
+            <data key="height">11</data>
+            <data key="width">11</data>
+            <data key="x">275</data>
+            <data key="y">350</data>
+        </node>
+        <node id="N18">
+            <data key="height">11</data>
+            <data key="label">код процедур</data>
+            <data key="width">11</data>
+            <data key="x">125</data>
+            <data key="y">550</data>
+        </node>
+        <edge id="E29" source="N23" target="N30"/>
+        <edge id="E30" source="N23" target="N31"/>
+        <edge id="E6" source="N3" target="N9">
+            <data key="color">#666666</data>
+        </edge>
+        <edge id="E25" source="N29" target="N29">
+            <data key="color">#ffff00</data>
+        </edge>
+        <edge id="E28" source="N27" target="N29">
+            <data key="color">#ffff00</data>
+            <data key="direction">mutual</data>
+        </edge>
+        <edge id="E16" source="N18" target="N19">
+            <data key="color">#666666</data>
+        </edge>
+        <edge id="E33" source="N36" target="N12">
+            <data key="color">#666666</data>
+        </edge>
+        <edge id="E1" source="N6" target="N5"/>
+        <edge id="E23" source="N2" target="N27">
+            <data key="color">#666666</data>
+        </edge>
+        <edge id="E10" source="N36" target="N10">
+            <data key="color">#666666</data>
+        </edge>
+        <edge id="E32" source="N1" target="N35"/>
+        <edge id="E12" source="N9" target="N13">
+            <data key="color">#666666</data>
+        </edge>
+        <edge id="E24" source="N2" target="N28">
+            <data key="color">#666666</data>
+        </edge>
+        <edge id="E8" source="N5" target="N8">
+            <data key="direction">undirected</data>
+            <data key="label">размышление</data>
+        </edge>
+        <edge id="E38" source="N41" target="N37"/>
+        <edge id="E13" source="N9" target="N14">
+            <data key="color">#666666</data>
+        </edge>
+        <edge id="E37" source="N2" target="N40">
+            <data key="color">#666666</data>
+        </edge>
+        <edge id="E22" source="N2" target="N26">
+            <data key="color">#666666</data>
+        </edge>
+        <edge id="E31" source="N2" target="N32">
+            <data key="color">#666666</data>
+        </edge>
+        <edge id="E4" source="N3" target="N4"/>
+        <edge id="E11" source="N36" target="N11">
+            <data key="color">#666666</data>
+        </edge>
+        <edge id="E39" source="N40" target="N37"/>
+        <edge id="E34" source="N28" target="N37"/>
+        <edge id="E26" source="N27" target="N26">
+            <data key="color">#ffff00</data>
+            <data key="direction">mutual</data>
+        </edge>
+        <edge id="E5" source="N2" target="N4">
+            <data key="label">чтение</data>
+        </edge>
+        <edge id="E19" source="N21" target="N22"/>
+        <edge id="E21" source="N4" target="N25">
+            <data key="color">#666666</data>
+        </edge>
+        <edge id="E40" source="N37" target="N41"/>
+        <edge id="E2" source="N6" target="N1"/>
+        <edge id="E20" source="N1" target="N23"/>
+        <edge id="E35" source="N23" target="N39"/>
+        <edge id="E17" source="N3" target="N20">
+            <data key="color">#666666</data>
+        </edge>
+        <edge id="E3" source="N7" target="N4"/>
+        <edge id="E7" source="N4" target="N2">
+            <data key="label">передача результата</data>
+        </edge>
+        <edge id="E42" source="N13" target="N37"/>
+        <edge id="E9" source="N9" target="N36">
+            <data key="color">#666666</data>
+        </edge>
+        <edge id="E43" source="N36" target="N37"/>
+        <edge id="E36" source="N38" target="N37"/>
+        <edge id="E18" source="N1" target="N21"/>
+        <edge id="E27" source="N2" target="N29">
+            <data key="color">#666666</data>
+        </edge>
+        <edge id="E14" source="N6" target="N15"/>
+        <edge id="E41" source="N2" target="N41">
+            <data key="color">#666666</data>
+        </edge>
+        <edge id="E15" source="N4" target="N18">
+            <data key="color">#666666</data>
+        </edge>
+    </graph>
+</graphml>

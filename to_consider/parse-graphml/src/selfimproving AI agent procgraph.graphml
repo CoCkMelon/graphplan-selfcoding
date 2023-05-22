@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+    <key id="labels.policy" attr.name="labels.policy" for="graph" attr.type="integer">
+        <default>0</default>
+    </key>
+    <key id="color" attr.name="color" for="edge" attr.type="string">
+        <default>#6f73c0</default>
+    </key>
+    <key id="direction" attr.name="direction" for="edge" attr.type="string">
+        <default>directed</default>
+    </key>
+    <key id="label.color" attr.name="label.color" for="edge" attr.type="string">
+        <default>#aad6ff</default>
+    </key>
+    <key id="labels.visibleIds" attr.name="labels.visibleIds" for="edge" attr.type="string">
+        <default>label</default>
+    </key>
+    <key id="points" attr.name="points" for="edge" attr.type="string"/>
+    <key id="style" attr.name="style" for="edge" attr.type="string">
+        <default>solid</default>
+    </key>
+    <key id="weight" attr.name="weight" for="edge" attr.type="double">
+        <default>1</default>
+    </key>
+    <key id="color" attr.name="color" for="node" attr.type="string">
+        <default>#000000</default>
+    </key>
+    <key id="label.color" attr.name="label.color" for="node" attr.type="string">
+        <default>#dcdcdc</default>
+    </key>
+    <key id="labels.visibleIds" attr.name="labels.visibleIds" for="node" attr.type="string">
+        <default>label</default>
+    </key>
+    <key id="shape" attr.name="shape" for="node" attr.type="string">
+        <default>disc</default>
+    </key>
+    <key id="stroke.color" attr.name="stroke.color" for="node" attr.type="string">
+        <default>#6f73c0</default>
+    </key>
+    <key id="stroke.size" attr.name="stroke.size" for="node" attr.type="double">
+        <default>1</default>
+    </key>
+    <key id="stroke.style" attr.name="stroke.style" for="node" attr.type="string">
+        <default>solid</default>
+    </key>
+    <key id="x" attr.name="x" for="node" attr.type="float"/>
+    <key id="y" attr.name="y" for="node" attr.type="float"/>
+    <graph edgedefault="directed">
+        <node id="N5">
+            <data key="color">#000000</data>
+            <data key="height">22.999679565429688</data>
+            <data key="label">N5</data>
+            <data key="shape">square</data>
+            <data key="stroke.color">#6f73c0</data>
+            <data key="width">38.000160217285156</data>
+            <data key="x">75.0024003982544</data>
+            <data key="y">139.5</data>
+        </node>
+        <node id="N7">
+            <data key="color">#000000</data>
+            <data key="height">22.999679565429688</data>
+            <data key="label">output</data>
+            <data key="shape">square</data>
+            <data key="stroke.color">#6f73c0</data>
+            <data key="width">38.000160217285156</data>
+            <data key="x">100</data>
+            <data key="y">0</data>
+        </node>
+        <node id="N2">
+            <data key="color">#000000</data>
+            <data key="height">32.999759674072266</data>
+            <data key="label">input</data>
+            <data key="label.color">#ffffff</data>
+            <data key="shape">disc</data>
+            <data key="stroke.color">#6f73c0</data>
+            <data key="width">54</data>
+            <data key="x">105.99840259552002</data>
+            <data key="y">331.50239181518555</data>
+        </node>
+        <node id="N3">
+            <data key="color">#000000</data>
+            <data key="height">32.999759674072266</data>
+            <data key="label">N3</data>
+            <data key="shape">disc</data>
+            <data key="stroke.color">#6f73c0</data>
+            <data key="width">54</data>
+            <data key="x">75.0024003982544</data>
+            <data key="y">75.49919700622559</data>
+        </node>
+        <node id="N1">
+            <data key="color">#000000</data>
+            <data key="height">22.999679565429688</data>
+            <data key="label">N1</data>
+            <data key="shape">square</data>
+            <data key="stroke.color">#6f73c0</data>
+            <data key="width">38.000160217285156</data>
+            <data key="x">78.99840259552002</data>
+            <data key="y">267.5016059875488</data>
+        </node>
+        <node id="N6">
+            <data key="color">#000000</data>
+            <data key="height">32.999759674072266</data>
+            <data key="label">explorer</data>
+            <data key="shape">disc</data>
+            <data key="stroke.color">#6f73c0</data>
+            <data key="width">54</data>
+            <data key="x">75.0024003982544</data>
+            <data key="y">203.5008029937744</data>
+        </node>
+        <node id="N4">
+            <data key="color">#000000</data>
+            <data key="height">32.999759674072266</data>
+            <data key="label">N4</data>
+            <data key="shape">disc</data>
+            <data key="stroke.color">#6f73c0</data>
+            <data key="width">54</data>
+            <data key="x">177.99839401245117</data>
+            <data key="y">331.50239181518555</data>
+        </node>
+        <edge id="N3-N7" source="N3" target="N7">
+            <data key="color">#6f73c0</data>
+            <data key="style">solid</data>
+        </edge>
+        <edge id="N2-N1" source="N2" target="N1">
+            <data key="color">#6f73c0</data>
+            <data key="style">solid</data>
+        </edge>
+        <edge id="N7-N2" source="N7" target="N2">
+            <data key="color">#6f73c0</data>
+            <data key="style">solid</data>
+        </edge>
+        <edge id="N1-N6" source="N1" target="N6">
+            <data key="color">#6f73c0</data>
+            <data key="style">solid</data>
+        </edge>
+        <edge id="N6-N5" source="N6" target="N5">
+            <data key="color">#6f73c0</data>
+            <data key="style">solid</data>
+        </edge>
+        <edge id="N5-N3" source="N5" target="N3">
+            <data key="color">#6f73c0</data>
+            <data key="style">solid</data>
+        </edge>
+    </graph>
+</graphml>
